@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React 18",
+    "slug": "getting-started-react-18",
+    "image": "/pictures/blog-react.png",
+    "excerpt": "Learn the new features and improvements in React 18, including automatic batching, transitions, and suspense.",
+    "date": "2024-12-10",
+    "author": "Sushant Raj Mishra",
+    "tags": ["React", "JavaScript", "Web Development"],
+    "content": [
+      "React 18 brings significant improvements to the way React handles updates and renders components. One of the most important changes is automatic batching, which groups multiple state updates together and processes them in a single render cycle.",
+      "This improvement can significantly enhance the performance of your applications, especially those with frequent state updates. The new concurrent features in React 18 allow applications to remain responsive even when dealing with large amounts of data or complex computations.",
+      "Another major feature is the Suspense API, which allows components to 'suspend' rendering while they load data. This provides a cleaner way to handle loading states compared to traditional approaches.",
+      "Transitions are another powerful feature introduced in React 18. They allow you to mark certain updates as non-urgent, keeping your UI responsive to user interactions while performing background updates.",
+      "Overall, React 18 represents a significant step forward in building performant, responsive web applications. The improvements in concurrent rendering and data fetching make it easier to build applications that feel fast and responsive to users."
+    ],
+    "likes": 0,
+    "comments": []
+  },
+  {
+    "id": 2,
+    "title": "Building Scalable Node.js Applications",
+    "slug": "scalable-nodejs",
+    "image": "/pictures/blog-nodejs.png",
+    "excerpt": "Best practices for building Node.js applications that can scale to handle millions of requests.",
+    "date": "2024-12-08",
+    "author": "Sushant Raj Mishra",
+    "tags": ["Node.js", "Backend", "Scalability"],
+    "content": [
+      "Building scalable Node.js applications requires careful architecture planning and best practices. The first step is to understand the event-driven, non-blocking I/O model that makes Node.js so efficient.",
+      "Clustering is one of the most important techniques for scaling Node.js applications. By using the cluster module, you can create multiple worker processes that share the same port, allowing your application to take advantage of multi-core systems.",
+      "Database optimization is crucial for scalability. Using connection pooling, implementing proper indexing, and choosing the right database for your use case can dramatically improve performance.",
+      "Caching strategies should be implemented at multiple levels - from in-memory caching with Redis to HTTP caching headers. This reduces the load on your database and improves response times.",
+      "Monitoring and logging are essential for maintaining scalable applications in production. Tools like PM2, Winston, and New Relic can help you track application performance and identify bottlenecks before they become critical issues."
+    ],
+    "likes": 0,
+    "comments": []
+  },
+  {
+    "id": 3,
+    "title": "Understanding TypeScript Generics",
+    "slug": "typescript-generics",
+    "image": null,
+    "excerpt": "Deep dive into TypeScript generics and how they improve code reusability and type safety.",
+    "date": "2024-12-05",
+    "author": "Sushant Raj Mishra",
+    "tags": ["TypeScript", "Programming", "Type Safety"],
+    "content": [
+      "TypeScript generics are one of the most powerful features of the language. They allow you to create reusable components while maintaining type safety throughout your codebase.",
+      "Generics enable you to write functions and classes that work with any type while still providing compile-time type checking. This eliminates the need for type assertions and the use of the 'any' type.",
+      "Generic constraints are a way to limit the types that can be used with a generic. By using the 'extends' keyword, you can specify what properties or methods a generic type must have.",
+      "Generic interfaces are particularly useful for defining the structure of complex data types. They allow you to create flexible, reusable interfaces that work with any data type.",
+      "Understanding and mastering generics is essential for writing professional-grade TypeScript code. They significantly improve code quality, maintainability, and reduce runtime errors."
+    ],
+    "likes": 0,
+    "comments": []
+  },
+  {
+    "id": 4,
+    "title": "The Future of Web Development",
+    "slug": "future-web-development",
+    "image": "/pictures/blog-web-future.png",
+    "excerpt": "Exploring emerging technologies and trends that will shape the future of web development.",
+    "date": "2024-12-01",
+    "author": "Sushant Raj Mishra",
+    "tags": ["Web Development", "Future Tech", "Trends"],
+    "content": [
+      "The web development landscape is constantly evolving, with new technologies and approaches emerging regularly. Understanding these trends is crucial for developers who want to stay relevant.",
+      "AI and machine learning integration into web applications is becoming increasingly common. From ChatGPT-powered features to recommendation systems, AI is transforming how we build web applications.",
+      "WebAssembly continues to gain traction as a way to run high-performance code in the browser. This enables developers to use languages like Rust and C++ to build performance-critical components.",
+      "Edge computing and serverless architectures are changing how we deploy and scale applications. These approaches offer better performance and cost efficiency compared to traditional server-based architectures.",
+      "Web3 and blockchain technology, while controversial, are introducing new paradigms for decentralized applications. Whether or not blockchain becomes mainstream, the concepts behind decentralization will continue to influence web development."
+    ],
+    "likes": 0,
+    "comments": []
+  }
+]

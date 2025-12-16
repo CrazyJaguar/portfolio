@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "title": "Mahila tatha bal-balika utthan samaj",
+    "category": "Full Stack",
+    "description": "A website for a non-governmental organization to showcase their mission, projects, team and impacts",
+    "longDescription": "A website for a non-governmental organization to showcase their mission, projects, team and impacts.",
+    "image": "/pictures/ngo.png",
+    "tech": [
+      "React",
+      "Node.js",
+      "Next.js"
+    ],
+    "stats": {
+      "users": "5K+",
+      "doctors": "200+",
+      "consultations": "10K+"
+    },
+    "featured": false,
+    "liveUrl": "https://mtbus.org.np",
+    "githubUrl": "https://github.com/yourusername/healthconnect",
+    "year": "2024"
+  },
+  {
+    "id": 2,
+    "title": "Deraa",
+    "category": "Full Stack",
+    "description": "A React Native app for local community engagement and volunteer matching.",
+    "longDescription": "Deraa is a room finder website. A website which makes easy for owner and tennants to meet. It is full free, all features are free to use. Check it out!",
+    "image": "/pictures/deraa.png",
+    "tech": [
+      "React Native",
+      "Firebase",
+      "Node",
+      "Next.js",
+      "Push Notification"
+    ],
+    "stats": {
+      "downloads": "2K+",
+      "events": "500+",
+      "volunteers": "2K+"
+    },
+    "featured": false,
+    "liveUrl": "https://deraa-5c169.web.app",
+    "githubUrl": "https://github.com/yourusername/community-hub",
+    "year": "2025"
+  },
+  {
+    "id": 3,
+    "title": "Sewaa",
+    "category": "fullstack",
+    "description": "Real-time service website which allows everything.",
+    "longDescription": "A Web app where Service provider and customer can contact and connect. It makes easier for new people to get service from nearby service providers. Currently in Progress.",
+    "image": "/pictures/sewaa.png",
+    "tech": [
+      "Next.js",
+      "TypeScript",
+      "React",
+      "Node.js"
+    ],
+    "stats": {
+      "schools": "15+",
+      "students": "3K+",
+      "teachers": "150+"
+    },
+    "featured": true,
+    "liveUrl": "https://example-edutech.com",
+    "githubUrl": "https://github.com/yourusername/edutech",
+    "year": "2023"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "category": "Certificate",
+    "title": "Book Bus",
+    "description": "Teaching underprivileged children basic computer skills",
+    "date": "January 2024",
+    "images": ["/pictures/book_bus.jpg"],
+    "stats": "100+ students"
+  },
+  {
+    "id": 2,
+    "category": "Art Workshop",
+    "title": "Art Workshop",
+    "description": "Art workshop at Gen BC Josh APS, Pithogarh",
+    "date": "September 2023",
+    "images": ["/pictures/art_workshop_Certificate.png"],
+    "stats": "200+ volunteers"
+  },
+  {
+    "id": 3,
+    "category": "certificate",
+    "title": "Janakpur Literature Festival",
+    "description": "Certified as Qualified Volunteer in JLF 2025",
+    "date": "2024",
+    "images": ["/pictures/JLF.jpg"],
+    "stats": "Janakpur Literature Festival"
+  },
+  {
+    "id": 4,
+    "category": "certificate",
+    "title": "BasketBall Under 18 District Level",
+    "description": "Certificate in Participation and Excellence",
+    "date": "2024",
+    "images": ["/pictures/basketball_dristict.png"],
+    "stats": "BasketBall Under 18 City Level"
+  },
+  {
+    "id": 5,
+    "category": "certificate",
+    "title": "BasketBall Under 18 District Level",
+    "description": "Certificate in Participation and Excellence",
+    "date": "2024",
+    "images": ["/pictures/basketball_city.png"],
+    "stats": "BasketBall Under 18 District Level"
+  }
+]
